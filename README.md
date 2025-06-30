@@ -2,17 +2,17 @@
 
 # Task 5: Capture and Analyze Network Traffic Using Wireshark
 
-## 🎯 Objective
+## ->Objective
 To capture live network traffic using Wireshark, identify commonly used protocols, and summarize findings for protocol awareness and troubleshooting practice.
 
 ---
 
-## 🧰 Tools Used
+## -> Tools Used
 - **Wireshark** (Free network protocol analyzer)
 
 ---
 
-## 📝 Steps Performed
+## -> Steps Performed
 
 ### 1. Installed Wireshark
 Installed the latest version of Wireshark from the official website:  
