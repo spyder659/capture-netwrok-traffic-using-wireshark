@@ -19,7 +19,7 @@ Installed the latest version of Wireshark from the official website:
 🔗 [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
 
 ### 2. Started Packet Capture
-- Chose the **active network interface** (usually Ethernet or Wi-Fi).
+- I had chosed the Ethernet netwrok interface.
 - Clicked on the **Shark Fin icon** to start capturing.
 
 ### 3. Generated Network Traffic
@@ -32,7 +32,7 @@ Installed the latest version of Wireshark from the official website:
 - Clicked the red **Stop icon** to end the session.
 
 ### 5. Filtered by Protocol
-Used Wireshark's filter bar to inspect specific protocols:
+I used Wireshark's filter bar to inspect specific protocols:
 - `http`
 - `dns`
 - `tcp`
