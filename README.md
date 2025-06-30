@@ -15,7 +15,7 @@ To capture live network traffic using Wireshark, identify commonly used protocol
 ## -> Steps Performed
 
 ### 1. Installed Wireshark
-Installed the latest version of Wireshark from the official website:  
+I have already Installed the latest version of Wireshark from the official website:  
 🔗 [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
 
 ### 2. Started Packet Capture
@@ -45,5 +45,5 @@ Observed traffic related to:
 
 
 ### 7. Exported Capture
-Saved the packet capture file as:
+I had saved the packet capture file as:
 [task5cap.txt](https://github.com/user-attachments/files/20980470/task5cap.txt)
